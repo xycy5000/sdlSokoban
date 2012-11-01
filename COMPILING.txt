@@ -1,0 +1,20 @@
+   ___________ _     _____ _____ _   _____________  ___  _   _ 
+  /  ___|  _  | |   /  ___|  _  | | / |  _  | ___ \/ _ \| \ | |
+  \ `--.| | | | |   \ `--.| | | | |/ /| | | | |_/ / /_\ |  \| |
+   `--. | | | | |    `--. | | | |    \| | | | ___ |  _  | . ` |
+  /\__/ | |/ /| |___/\__/ \ \_/ | |\  \ \_/ | |_/ | | | | |\  |
+  \____/|___/ \_____\____/ \___/\_| \_/\___/\____/\_| |_\_| \_/
+    sdlSokoban - A Sokoban game clone written in C++ and SDL
+
+Author: Ericson Norberto
+Email.: sdlsokoban@gmail.com
+
+
+This program is compiled and tested with GNU MingW (GCC 4.7.0)
+- Requires SDL, SDL_image, SDL and fmodex.
+
+Compiling: -Dmain=SDL_main
+Linking..: -lmingw32 -lSDL -lSDLmain -lSDL_image -lfmodex
+
+
+I used Netbeans to build the project. Use your IDE of choice.
